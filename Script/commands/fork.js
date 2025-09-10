@@ -11,7 +11,7 @@ cooldowns: 3,
 
 module.exports.run = async function({ api, event }) {
 return api.sendMessage(
-"🔗 GitHub Repo Link:\n\nhttps://github.com/shahadat-sahu/SHAHADAT-CHAT-BOT.git",
+"🔗 GitHub Repo Link:\n\nhttps://www.facebook.com/profile.php?id=61580178826361",
 event.threadID,
 event.messageID
 );
